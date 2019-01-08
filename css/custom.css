@@ -1,0 +1,16 @@
+.outingplace label{
+	display: block;
+}
+
+.choosingouting{
+	text-align: center;
+}
+
+.chooseouting button{
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+}
+.submit{
+	text-align: center;
+}
